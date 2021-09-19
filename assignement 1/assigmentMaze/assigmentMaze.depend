@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614560021 source:c:\users\brian\desktop\second year\simester 2\c programing\assignement 1\assigmentmaze\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1614531079 source:c:\users\brian\desktop\second year\simester 2\c programing\assignement 1\assigmentmaze\main.c
+
